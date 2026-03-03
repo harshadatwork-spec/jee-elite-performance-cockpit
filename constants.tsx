@@ -202,3 +202,4 @@ export const STATUS_COLORS = {
   [QuestionStatus.MARKED_FOR_REVIEW]: 'bg-indigo-600 text-white rounded-full',
   [QuestionStatus.ANSWERED_AND_MARKED]: 'bg-indigo-600 text-white rounded-full relative after:content-["✓"] after:absolute after:-top-1 after:-right-1 after:text-[10px] after:bg-emerald-500 after:rounded-full after:w-4 after:h-4 after:flex after:items-center after:justify-center',
 };
+
